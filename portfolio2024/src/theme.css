@@ -99,6 +99,9 @@ a:hover {
 	color: white;
 	text-decoration: none;
 }
+*{
+    list-style: none;
+}
 
 /* Responsive Typography */
 @media screen and (min-width: 600px) {
